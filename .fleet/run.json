@@ -1,0 +1,9 @@
+{
+  "configurations": [
+    {
+      "type": "node",
+      "name": "Run current file",
+      "file": "basics/"
+    }
+  ]
+}
